@@ -25,8 +25,7 @@ export default function RootLayout({ children }) {
       
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-           <div className="text-red-500 text-xl font-bold">
- hii</div>
+ 
         {children}
 
      
