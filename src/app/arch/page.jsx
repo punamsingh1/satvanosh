@@ -3,7 +3,7 @@ import React from 'react'
 const arch = () => {
   return (
     <div>
-     kkk 
+     Check
     </div>
   )
 }
